@@ -1,5 +1,5 @@
 name: 'Create PowerShell Module'
-description: 'A GitHub Action to create a PowerShell module from source files.'
+description: 'A GitHub Action to test a PowerShell module.'
 author: 'Jeff Patton'
 
 branding:
