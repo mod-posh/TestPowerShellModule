@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [[0.0.1.0]](https://github.com/mod-posh/TestPowerShellModule/releases/tag/v0.0.1.0) - 2024-07-18
 
-The "Create PowerShell Module" GitHub Action automates the process of creating and testing PowerShell modules from source files within a GitHub workflow. This action ensures that the module is correctly set up, validated, and imported, providing a streamlined solution for PowerShell module development.
+The "Test PowerShell Module" GitHub Action automates the process of creating and testing PowerShell modules from source files within a GitHub workflow. This action ensures that the module is correctly set up, validated, and imported, providing a streamlined solution for PowerShell module development.
 
 Features
 
