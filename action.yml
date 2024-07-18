@@ -1,4 +1,4 @@
-name: 'Create PowerShell Module'
+name: 'Test PowerShell Module'
 description: 'A GitHub Action to test a PowerShell module.'
 author: 'Jeff Patton'
 
